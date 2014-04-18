@@ -1,7 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
- * Am I Android? Class
+ * Not Android Class
  *
  * @package		ExpressionEngine
  * @category	Plugin
@@ -11,7 +11,7 @@
  */
 
 $plugin_info = array(
-  'pi_name'         => '{e} house studio Am I Android?',
+  'pi_name'         => '{e} house studio Not Android',
   'pi_version'      => '1.0',
   'pi_author'       => 'Ryan Shrum',
   'pi_author_url'   => 'http://www.ehousestudio.com',
